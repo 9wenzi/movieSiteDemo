@@ -1,0 +1,24 @@
+{
+  "name": "movie",
+  "description": "movie demo",
+  "main": "",
+  "authors": [
+    "9wen"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "moviesite",
+    "demo"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
