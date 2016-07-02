@@ -1,4 +1,4 @@
-var MovieSchema=require("../schemas/MovieSchema");
+var MovieSchema=require("../schemas/movieSchema");
 var mongoose=require("mongoose")
 
 var Movie=mongoose.model("Movie",MovieSchema)
